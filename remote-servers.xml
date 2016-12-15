@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="AWS ElasticBeanstalk" type="awselasticbeanstalk">
+      <configuration access-key="123" region-url="elasticbeanstalk.us-east-1.amazonaws.com" secret-key="123213" />
+    </remote-server>
+  </component>
+</application>
