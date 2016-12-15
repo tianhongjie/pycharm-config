@@ -1,0 +1,18 @@
+<templateSet group="jQuery">
+  <template name="jq" value="$(function () {&#10;    &quot;use strict&quot;;&#10;&#10;});&#10;" description="jQuery Ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jqajax" value="$.ajax({&#10;            &quot;url&quot;: &quot;/admin/ticket/workfloweditor/list&quot;,&#10;            &quot;async&quot;: false,&#10;            &quot;dataType&quot;: &quot;json&quot;,&#10;            &quot;success&quot;: function (flow_chart) {&#10;                $.each(flow_chart.nodes, function (index, elem) {&#10;                    console.log(index);&#10;                    createElement(elem);&#10;                });&#10;&#10;                $.each(flow_chart.connections, function (index, elem) {&#10;                    console.log(index);&#10;                    var conn = wfins.connect({&#10;                        source: elem.source,&#10;                        target: elem.target,&#10;                        label: elem.id&#10;                    });&#10;                    conn.workflow_info = elem.workflow_info;&#10;                });&#10;                wfins.repaintEverything();&#10;            }&#10;        });" description="jQuery Ajax" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jqplugin" value="(function ($) {&#10;    var methods = {&#10;        init: function (options) {&#10;        },&#10;        destroy: function () {&#10;        }&#10;    };&#10;&#10;    $.fn.tooltip = function (method) {&#10;        // Method calling logic&#10;        if (methods[method]) {&#10;            return methods[method].apply(this, Array.prototype.slice.call(arguments, 1));&#10;        } else if (typeof method === 'object' || !method) {&#10;            return methods.init.apply(this, arguments);&#10;        } else {&#10;            $.error('Method ' + method + ' does not exist on jQuery.tooltip');&#10;        }&#10;&#10;    };&#10;})(jQuery);" description="Jquery Plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

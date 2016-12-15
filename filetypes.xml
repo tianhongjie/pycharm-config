@@ -1,0 +1,45 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ipython" type="IPNB" />
+      <mapping ext="conf" type="Ini" />
+      <mapping ext="cfg" type="Ini" />
+      <mapping ext="sample" type="Ini" />
+      <mapping pattern="README" type="Markdown" />
+      <mapping ext="markdown" type="Native" />
+      <mapping pattern="charlie_media" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="change log" type="PLAIN_TEXT" />
+      <mapping pattern=".vimrc" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern="werobot_session" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
+      <mapping pattern="set_item_required.html" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="htdigest" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="djcache" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping ext="seg" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="holder" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="psql" type="PLAIN_TEXT" />
+      <mapping pattern="gunicorn_start" type="Python" />
+      <mapping ext="pyc" type="PythonStub" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="s" type="XHTML" />
+      <mapping pattern="create_child_message" type="XHTML" />
+      <mapping ext="template" type="XML" />
+    </extensionMap>
+  </component>
+</application>

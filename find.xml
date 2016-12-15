@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'goldcap_portal'" />
+    <option name="defaultScopeName" value="Project 'goldcap_portal'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'goldcap_portal'" />
+    <option name="FILE_MASK" value="!*.po" />
+    <recentFileMasks>
+      <mask>*</mask>
+      <mask>!*.pot, !*.po</mask>
+      <mask>*.py, *.js, *.html, *.ini</mask>
+      <mask>!.po</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.po*</mask>
+      <mask>*.pot</mask>
+      <mask>*.po</mask>
+      <mask>__openerp__.py</mask>
+      <mask>.html</mask>
+      <mask>reset.css</mask>
+      <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>rules.py</mask>
+      <mask>*.html,*.py</mask>
+      <mask>*.html</mask>
+      <mask>*.py, *.html</mask>
+      <mask>forms.py</mask>
+      <mask>urls.py</mask>
+      <mask>models.py</mask>
+      <mask>*.py</mask>
+      <mask>!*.po, *.py</mask>
+      <mask>!*.po,*.html</mask>
+      <mask>!*.po,*.py</mask>
+      <mask>!*.po, *.html</mask>
+      <mask>!*.po, *.css</mask>
+      <mask>!*.p</mask>
+      <mask>!*.p0</mask>
+      <mask>!*.po</mask>
+    </recentFileMasks>
+  </component>
+</application>

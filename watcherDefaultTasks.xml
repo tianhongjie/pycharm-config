@@ -1,0 +1,24 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--out=$FileNameWithoutExtension$.js $FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compress .js files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="dart" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Dart2JS" />
+      <option name="output" value="$FileNameWithoutExtension$.js" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="program" value="/opt/dart/dart-sdk/bin/dart2js" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>

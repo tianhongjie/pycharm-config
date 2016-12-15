@@ -1,0 +1,42 @@
+<code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,py:if,py:for,py:when" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot,body,html" />
+  <option name="HTML_INLINE_ELEMENTS" value="" />
+  <Python>
+    <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
+    <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="120" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
